@@ -31,7 +31,6 @@
         Console.WriteLine(result + '=' + xSumResult);*/
 
         //do...while
-        xSumResult = x;
         do
         {
             if (i % 2 == 0)
